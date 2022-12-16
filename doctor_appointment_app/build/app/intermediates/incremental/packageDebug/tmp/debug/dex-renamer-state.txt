@@ -1,0 +1,4 @@
+#Fri Dec 16 04:00:15 BDT 2022
+base.0=/media/iqbalriiaz/Coding/Flutter-Small-Projects/doctor_appointment_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
